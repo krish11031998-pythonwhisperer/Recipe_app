@@ -28,8 +28,5 @@ This web app was built using:
 The following is the link for the API used for pullng all the recipes and the ingredients for this app and would like to credit Jonas Schmedtmann  
 [Jonas Schmedtmann's API](http://forkify-api.herokuapp.com/)
 
-<img width="1440" alt="Screen Shot 2019-11-25 at 5 22 37 PM" src="https://user-images.githubusercontent.com/56647167/69544061-62849580-0fa8-11ea-8857-ca445487de09.png">
-
-
 
 <img width="1440" alt="Screen Shot 2019-11-25 at 5 26 02 PM" src="https://user-images.githubusercontent.com/56647167/69544208-b0010280-0fa8-11ea-8cfa-4f3832030c9f.png">
